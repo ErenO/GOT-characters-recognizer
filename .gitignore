@@ -1,0 +1,9 @@
+data/
+dataset/
+haarcascades/
+model/
+*.h5
+*.mp4
+*.npy
+*.csv
+*.avi

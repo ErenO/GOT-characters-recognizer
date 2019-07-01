@@ -1,4 +1,4 @@
-##GOT-characters-recognizer
+# GOT-characters-recognizer
 
 [IN PROGRESS!]
 The goal is to create a GOT characters recognizer creating the dataset from scratch using google image,
